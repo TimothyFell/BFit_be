@@ -1,3 +1,9 @@
+# BFit Backend API
+
+## Description
+
+This is a project I worked on while at Turing School of Software and Design in a group of four. Two backend and two frontend developers. I worked solely on the backend, creating the database and API endpoints to interact with it. You can try hitting the endpoints by using [Postman](https://www.getpostman.com/downloads/) and our [documentation](./api_doc.md) to query https://bfit-api.herokuapp.com/.
+
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/mnhollandplum/BFit_be.svg?columns=all)](https://waffle.io/mnhollandplum/BFit_be)
 
 [![Build Status](https://travis-ci.org/mnhollandplum/BFit_be.svg?branch=master)](https://travis-ci.org/mnhollandplum/BFit_be)
